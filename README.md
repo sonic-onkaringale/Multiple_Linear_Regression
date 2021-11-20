@@ -36,3 +36,10 @@ int main()
 
 ```
 
+#### [Class LinearReg](https://github.com/sonic-onkaringale/Multiple_Linear_Regression/blob/main/Core.h)
+
+#### [Class Dataset](https://github.com/sonic-onkaringale/Multiple_Linear_Regression/blob/main/Dataset.h)
+
+#### [Class Matrix](https://github.com/sonic-onkaringale/Multiple_Linear_Regression/blob/main/Matrix.h)
+
+#### 
