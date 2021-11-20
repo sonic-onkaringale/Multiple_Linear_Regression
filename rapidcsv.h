@@ -29,10 +29,10 @@
 #include <typeinfo>
 #include <vector>
 
-#if defined(_MSC_VER)
+//#if defined(_MSC_VER)
 #include <BaseTsd.h>
 typedef SSIZE_T ssize_t;
-#endif
+//#endif
 
 namespace rapidcsv
 {
