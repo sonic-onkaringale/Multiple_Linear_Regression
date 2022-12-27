@@ -1,5 +1,9 @@
 # Multiple Linear Regression in C++.
 
+## This Repo is for desktop client. For Android Repo visit below link.
+
+## Android Application Repository : https://github.com/sonic-onkaringale/Multiple-Linear-Regression-Android-App-using-JNI-Cpp-Calls
+
 #### Installation :
 
 1. Download the zip of this repository.
